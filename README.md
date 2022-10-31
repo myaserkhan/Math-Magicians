@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 ## 👤 Author
 
 - GitHub: [Yasir Khan](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@khanyaser007](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
