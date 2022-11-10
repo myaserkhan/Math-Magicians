@@ -8,6 +8,10 @@
 
 - React JS
 
+## Live Demo
+
+https://636caee9a8434160d14233c5--fastidious-pegasus-fbdfa4.netlify.app/math-magicians
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
